@@ -2,11 +2,10 @@
 
 namespace SaleAPproject.Controllers
 {
-    public class AdsController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class AdsController : ControllerBase
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+
     }
 }

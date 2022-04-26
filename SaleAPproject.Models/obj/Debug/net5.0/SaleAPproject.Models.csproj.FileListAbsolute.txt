@@ -1,0 +1,12 @@
+E:\SaleAPproject\SaleAPproject.Models\bin\Debug\net5.0\SaleAPproject.Models.deps.json
+E:\SaleAPproject\SaleAPproject.Models\bin\Debug\net5.0\SaleAPproject.Models.dll
+E:\SaleAPproject\SaleAPproject.Models\bin\Debug\net5.0\SaleAPproject.Models.pdb
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.csproj.AssemblyReference.cache
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.AssemblyInfoInputs.cache
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.AssemblyInfo.cs
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.csproj.CoreCompileInputs.cache
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.dll
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\refint\SaleAPproject.Models.dll
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\SaleAPproject.Models.pdb
+E:\SaleAPproject\SaleAPproject.Models\obj\Debug\net5.0\ref\SaleAPproject.Models.dll

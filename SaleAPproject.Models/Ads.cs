@@ -9,5 +9,6 @@ namespace SaleAPproject.Models
         public decimal Price { get; set; }
         public string Img { get; set; }
         public string Desc { get; set; }
+        public DateTime Created { get; set; }
     }
 }

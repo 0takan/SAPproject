@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SaleAPproject.Data/1.0.0": {
+        "runtime": {
+          "SaleAPproject.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaleAPproject.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

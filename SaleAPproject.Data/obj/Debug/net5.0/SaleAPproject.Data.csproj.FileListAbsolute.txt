@@ -1,0 +1,12 @@
+E:\SaleAPproject\SaleAPproject.Data\bin\Debug\net5.0\SaleAPproject.Data.deps.json
+E:\SaleAPproject\SaleAPproject.Data\bin\Debug\net5.0\SaleAPproject.Data.dll
+E:\SaleAPproject\SaleAPproject.Data\bin\Debug\net5.0\SaleAPproject.Data.pdb
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.csproj.AssemblyReference.cache
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.AssemblyInfoInputs.cache
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.AssemblyInfo.cs
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.csproj.CoreCompileInputs.cache
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.dll
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\refint\SaleAPproject.Data.dll
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\SaleAPproject.Data.pdb
+E:\SaleAPproject\SaleAPproject.Data\obj\Debug\net5.0\ref\SaleAPproject.Data.dll
